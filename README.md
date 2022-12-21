@@ -1,4 +1,4 @@
-<!-- インストール -->
+<!-- インストール類 -->
 pip install django==3.0.7
 pip install djangorestframework==3.10
 pip install djangorestframework-simplejwt==4.6.0
